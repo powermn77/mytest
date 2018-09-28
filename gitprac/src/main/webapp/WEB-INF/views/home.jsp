@@ -3,12 +3,17 @@
 <html>
 <head>
 	<title>Home</title>
+	<style>
+		body {
+			background-color: linear-gradient(to bottom right, blue, green);
+		}
+	</style>
 </head>
 <body>
 <h1>
-	Hello world! Johann
+	This is my first test page. I'm so glad that it is working great. 
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  What time is it right now?? It is ${serverTime}. </P>
 </body>
 </html>
