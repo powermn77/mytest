@@ -3,13 +3,8 @@
 <html>
 <head>
 	<title>Home</title>
-	<style>
-		body {
-			background-color: linear-gradient(to bottom right, blue, green);
-		}
-	</style>
 </head>
-<body>
+<body style="background-color: #bee9ef;">
 <h1>
 	This is my first test page. I'm so glad that it is working great. 
 </h1>
